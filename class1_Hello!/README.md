@@ -14,9 +14,13 @@ First we install [Node.js](https://nodejs.org/),so we can run code of javascript
 - Check if TypeScript is installed:
   ```bash
   tsc --version
+ -Initialize the TypeScript Project: Run the following command in your project directory:
+  ```bash
+  tsc --init
 - Check Node.js version:
   ```bash
   node --version
+ 
 ## Run TypeScript file 
 - Compile TypeScript files from the current folder,can do using ('cd folderName').
 - Cannot create multiple JS files simultaneously.
