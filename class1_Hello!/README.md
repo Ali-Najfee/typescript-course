@@ -20,6 +20,9 @@ First we install [Node.js](https://nodejs.org/),so we can run code of javascript
 - Check Node.js version:
   ```bash
   node --version
+- Auto typescript compiling:
+  ```bash
+  tsc --watch
  
 ## Run TypeScript file 
 - Compile TypeScript files from the current folder,can do using ('cd folderName').
