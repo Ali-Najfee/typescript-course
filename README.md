@@ -26,7 +26,12 @@ Each section in this assignment builds on the previous one, progressively introd
 | Topic    | Link     |
 |----------|----------|
 | Installation   |  [link](https://github.com/Ali-Najfee/typescript-course/tree/main/class1_Hello!)  |
-| Errors    | [link]   |
+| Strong Typing    | [link]https://github.com/Ali-Najfee/typescript-course/tree/main/class2_strong_typing   |
+| Strong Typing    | [link]([https://github.com/Ali-Najfee/typescript-course/tree/main/class2_strong_typing)]
+|let const  |[link](https://github.com/Ali-Najfee/typescript-course/tree/main/class3_const_let)  |
+|  Types of error    | [link](https://github.com/Ali-Najfee/typescript-course/tree/main/class4_typesOf_errors)  |
+| Modules    | [link] (https://github.com/Ali-Najfee/typescript-course/tree/main/class5_modules)  |
+| Objects| [link](https://github.com/Ali-Najfee/typescript-course/tree/main/class6_object)   |
 
 
 ---
